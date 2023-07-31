@@ -1,0 +1,217 @@
+﻿Offense_Code_Group,Hour,Number_of_Records
+Assault,0,1038
+Assault,1,749
+Assault,2,677
+Assault,3,282
+Assault,4,210
+Assault,5,189
+Assault,6,200
+Assault,7,290
+Assault,8,400
+Assault,9,474
+Assault,10,614
+Assault,11,661
+Assault,12,773
+Assault,13,756
+Assault,14,819
+Assault,15,839
+Assault,16,940
+Assault,17,961
+Assault,18,937
+Assault,19,940
+Assault,20,935
+Assault,21,947
+Assault,22,787
+Assault,23,721
+Burglary,0,272
+Burglary,1,187
+Burglary,2,164
+Burglary,3,147
+Burglary,4,140
+Burglary,5,89
+Burglary,6,113
+Burglary,7,181
+Burglary,8,182
+Burglary,9,184
+Burglary,10,201
+Burglary,11,200
+Burglary,12,198
+Burglary,13,172
+Burglary,14,171
+Burglary,15,158
+Burglary,16,183
+Burglary,17,196
+Burglary,18,202
+Burglary,19,147
+Burglary,20,180
+Burglary,21,162
+Burglary,22,168
+Burglary,23,155
+Drug Offenses,0,217
+Drug Offenses,1,86
+Drug Offenses,2,78
+Drug Offenses,3,42
+Drug Offenses,4,21
+Drug Offenses,5,12
+Drug Offenses,6,28
+Drug Offenses,7,230
+Drug Offenses,8,107
+Drug Offenses,9,146
+Drug Offenses,10,251
+Drug Offenses,11,311
+Drug Offenses,12,368
+Drug Offenses,13,430
+Drug Offenses,14,444
+Drug Offenses,15,348
+Drug Offenses,16,606
+Drug Offenses,17,675
+Drug Offenses,18,659
+Drug Offenses,19,530
+Drug Offenses,20,335
+Drug Offenses,21,194
+Drug Offenses,22,113
+Drug Offenses,23,38
+Fraud,0,1777
+Fraud,1,64
+Fraud,2,40
+Fraud,3,26
+Fraud,4,19
+Fraud,5,20
+Fraud,6,27
+Fraud,7,109
+Fraud,8,348
+Fraud,9,560
+Fraud,10,564
+Fraud,11,569
+Fraud,12,1149
+Fraud,13,604
+Fraud,14,627
+Fraud,15,567
+Fraud,16,559
+Fraud,17,432
+Fraud,18,347
+Fraud,19,240
+Fraud,20,189
+Fraud,21,117
+Fraud,22,100
+Fraud,23,69
+Larceny/Theft,0,1570
+Larceny/Theft,1,514
+Larceny/Theft,2,395
+Larceny/Theft,3,281
+Larceny/Theft,4,194
+Larceny/Theft,5,231
+Larceny/Theft,6,368
+Larceny/Theft,7,601
+Larceny/Theft,8,1026
+Larceny/Theft,9,1209
+Larceny/Theft,10,1400
+Larceny/Theft,11,1612
+Larceny/Theft,12,2016
+Larceny/Theft,13,1679
+Larceny/Theft,14,1842
+Larceny/Theft,15,1811
+Larceny/Theft,16,2141
+Larceny/Theft,17,2037
+Larceny/Theft,18,1912
+Larceny/Theft,19,1622
+Larceny/Theft,20,1353
+Larceny/Theft,21,1016
+Larceny/Theft,22,882
+Larceny/Theft,23,703
+Motor Vehicle Offenses,0,1352
+Motor Vehicle Offenses,1,648
+Motor Vehicle Offenses,2,647
+Motor Vehicle Offenses,3,419
+Motor Vehicle Offenses,4,303
+Motor Vehicle Offenses,5,400
+Motor Vehicle Offenses,6,651
+Motor Vehicle Offenses,7,961
+Motor Vehicle Offenses,8,1321
+Motor Vehicle Offenses,9,1269
+Motor Vehicle Offenses,10,1312
+Motor Vehicle Offenses,11,1512
+Motor Vehicle Offenses,12,1625
+Motor Vehicle Offenses,13,1675
+Motor Vehicle Offenses,14,1730
+Motor Vehicle Offenses,15,1876
+Motor Vehicle Offenses,16,2125
+Motor Vehicle Offenses,17,2157
+Motor Vehicle Offenses,18,1977
+Motor Vehicle Offenses,19,1620
+Motor Vehicle Offenses,20,1477
+Motor Vehicle Offenses,21,1264
+Motor Vehicle Offenses,22,1204
+Motor Vehicle Offenses,23,1022
+Robbery,0,175
+Robbery,1,129
+Robbery,2,118
+Robbery,3,76
+Robbery,4,51
+Robbery,5,41
+Robbery,6,28
+Robbery,7,37
+Robbery,8,37
+Robbery,9,49
+Robbery,10,65
+Robbery,11,67
+Robbery,12,98
+Robbery,13,102
+Robbery,14,115
+Robbery,15,122
+Robbery,16,132
+Robbery,17,154
+Robbery,18,148
+Robbery,19,160
+Robbery,20,150
+Robbery,21,153
+Robbery,22,151
+Robbery,23,131
+Vandalism,0,643
+Vandalism,1,304
+Vandalism,2,254
+Vandalism,3,190
+Vandalism,4,143
+Vandalism,5,139
+Vandalism,6,211
+Vandalism,7,272
+Vandalism,8,451
+Vandalism,9,389
+Vandalism,10,428
+Vandalism,11,405
+Vandalism,12,515
+Vandalism,13,424
+Vandalism,14,449
+Vandalism,15,437
+Vandalism,16,566
+Vandalism,17,574
+Vandalism,18,598
+Vandalism,19,566
+Vandalism,20,606
+Vandalism,21,558
+Vandalism,22,546
+Vandalism,23,457
+Weapons Offenses,0,74
+Weapons Offenses,1,78
+Weapons Offenses,2,52
+Weapons Offenses,3,22
+Weapons Offenses,4,18
+Weapons Offenses,5,16
+Weapons Offenses,6,20
+Weapons Offenses,7,29
+Weapons Offenses,8,46
+Weapons Offenses,9,51
+Weapons Offenses,10,81
+Weapons Offenses,11,80
+Weapons Offenses,12,83
+Weapons Offenses,13,68
+Weapons Offenses,14,91
+Weapons Offenses,15,73
+Weapons Offenses,16,74
+Weapons Offenses,17,90
+Weapons Offenses,18,117
+Weapons Offenses,19,96
+Weapons Offenses,20,58
+Weapons Offenses,21,67
+Weapons Offenses,22,53
+Weapons Offenses,23,48
